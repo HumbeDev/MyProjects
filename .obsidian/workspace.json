@@ -11,20 +11,14 @@
             "id": "f9ff715df048af5b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Game Design/Our Lifes - Game.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Our Lifes - Game"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -171,13 +165,17 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "59d443b5fbe8ebdf",
+  "active": "f9ff715df048af5b",
   "lastOpenFiles": [
     "OS/INSTALL_GEMINI_LINUX.md",
+    "README.md",
+    "OS/README.md",
+    "Game Design/Our Lifes - Game.md",
+    "Matlab",
+    "Nueva carpeta",
     "OS",
     "Python",
     "Game Design",
-    "Game Design/Our Lifes - Game.md",
     "Prueba.md",
     "Excalidraw/Drawing 2025-10-30 21.31.49.excalidraw.md",
     "Excalidraw",
@@ -194,7 +192,6 @@
     "Excalidraw/Drawing 2025-01-28 21.41.41.excalidraw.md",
     "Excalidraw/Drawing 2025-01-28 21.44.42.excalidraw.md",
     "Cálculo",
-    "Nueva carpeta",
     "Calculo_diferencial_e_integral_de_funcoe.pdf",
     "Excalidraw/Drawing 2025-01-28 01.51.43.excalidraw.md",
     "Bienvenido.md",
