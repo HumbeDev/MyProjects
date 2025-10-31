@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "3543849b388d842e",
+    "type": "split",
+    "children": [
+      {
+        "id": "194c96f1864d8210",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9ff715df048af5b",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Game Design/Our Lifes - Game.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Our Lifes - Game"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f03e7d5ba74a105",
+    "type": "split",
+    "children": [
+      {
+        "id": "30fda451f43d8cc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59d443b5fbe8ebdf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "b82ed1258942219e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "b8ac6257268b1c36",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.5
+  },
+  "right": {
+    "id": "64a4dbce0f54ae5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "41a5a7197c9b9481",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18022a2cae85d5d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Our Lifes - Game.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Our Lifes - Game"
+            }
+          },
+          {
+            "id": "db674e1389e4e718",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "cbfaf85868f3ec71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          },
+          {
+            "id": "85760aed99d2c129",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Our Lifes - Game.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Our Lifes - Game"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Crear nueva base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
+      "latex-ocr:LatexOCR": false
+    }
+  },
+  "active": "59d443b5fbe8ebdf",
+  "lastOpenFiles": [
+    "OS/INSTALL_GEMINI_LINUX.md",
+    "OS",
+    "Python",
+    "Game Design",
+    "Game Design/Our Lifes - Game.md",
+    "Prueba.md",
+    "Excalidraw/Drawing 2025-10-30 21.31.49.excalidraw.md",
+    "Excalidraw",
+    "2025-10-30.md",
+    "Sin título.base",
+    "Untitled Kanban.md",
+    "Sin título.canvas",
+    "Cálculo/Calculo_diferencial_e_integral_de_funcoe.pdf",
+    "Historia.md",
+    "Excalidraw/Drawing 2025-01-28 22.09.19.excalidraw.md",
+    "2025-01-28.md",
+    "Sin título 1.md",
+    "2025-02-06.md",
+    "Excalidraw/Drawing 2025-01-28 21.41.41.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-28 21.44.42.excalidraw.md",
+    "Cálculo",
+    "Nueva carpeta",
+    "Calculo_diferencial_e_integral_de_funcoe.pdf",
+    "Excalidraw/Drawing 2025-01-28 01.51.43.excalidraw.md",
+    "Bienvenido.md",
+    "cree un enlace.md",
+    "2025-01-24.md",
+    "Sin título 1.canvas"
+  ]
+}
